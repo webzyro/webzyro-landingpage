@@ -39,7 +39,7 @@ import Service6 from "../assets/service6.png";
 import Medal from "../assets/medal.png";
 import Users from "../assets/users.png";
 import Handshake from "../assets/handshake.png";
-import Growth from "../assets/Growth.png";
+import Growth from "../assets/growth.png";
 
 export const slides = [
   {
